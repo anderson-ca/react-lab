@@ -1,29 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52878861-76c3-49c3-a7ba-1566f0451e26" name="Default Changelist" comment="" />
+    <list default="true" id="52878861-76c3-49c3-a7ba-1566f0451e26" name="Default Changelist" comment=":">
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1jbDXdnaL0hLkPO3JV898750kaa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="aws" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604063939118</updated>
-      <workItem from="1604063940144" duration="1962000" />
+      <workItem from="1604063940144" duration="3784000" />
     </task>
     <servers />
   </component>
@@ -42,14 +61,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1375" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604065091430">
+    <state x="1375" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604066744725">
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
-    <state x="1375" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1604065091430" />
-    <state x="1434" y="184" width="992" height="737" key="SettingsEditor" timestamp="1604065135558">
+    <state x="1375" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1604066744725" />
+    <state x="1527" y="27" width="786" height="1053" key="CommitChangelistDialog2" timestamp="1604066595883">
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
-    <state x="1434" y="184" width="992" height="737" key="SettingsEditor/0.27.2560.1053@0.27.2560.1053" timestamp="1604065135558" />
+    <state x="1527" y="27" width="786" height="1053" key="CommitChangelistDialog2/0.27.2560.1053@0.27.2560.1053" timestamp="1604066595883" />
+    <state x="1713" y="310" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604067076286">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1713" y="310" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1053@0.27.2560.1053" timestamp="1604067076286" />
+    <state x="1434" y="184" width="992" height="737" key="SettingsEditor" timestamp="1604067135946">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1434" y="184" width="992" height="737" key="SettingsEditor/0.27.2560.1053@0.27.2560.1053" timestamp="1604067135946" />
+    <state x="1732" y="463" width="385" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604066631376">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1732" y="463" width="385" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.2560.1053@0.27.2560.1053" timestamp="1604066631376" />
     <state x="1581" y="250" key="run.anything.popup" timestamp="1604065097972">
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
