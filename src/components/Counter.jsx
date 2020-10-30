@@ -6,10 +6,16 @@ const Counter = () => {
     return (
         <div>
             <h2>Counter component</h2>
-            <button onClick={() => setCount(count += 1)}>
-                Increase Counter
-            </button>
             <h4>count: {count}</h4>
+            <span>
+                <button onClick={() => setCount(count += 1)}>
+                    Increase Counter
+                </button>
+                {" "}
+                <button onClick={() => setCount(count = 0)}>
+                    Reset Counter
+                </button>
+            </span>
         </div>
     );
 }
