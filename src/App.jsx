@@ -1,10 +1,11 @@
 import React from "react";
+import Counter from "./components/Counter";
 
 const App = () => {
     return (
         <div>
             <h1>Hello React Lab</h1>
-            <p>This is my react experimentation environment</p>
+            <Counter />
         </div>
     );
 }
