@@ -1,14 +1,22 @@
 import React, {useState, useEffect} from "react";
+import axios from "axios";
 
 const RickAndMortyCharacterPicker = () => {
     const [name, setName] = useState("");
 
 
+    async function getCharacter() {
+        const baseURL = "https://rickandmortyapi.com/api/character/";
+        const {data} = await axios(baseURL);
+        console.log(data);
+    }
+
     return (
         <div>
-            <h1>Which Rick and Morty character are you?</h1>
+            <h1>Rick and Morty characters</h1>
             <form onSubmit={event => {
-
+                event.preventDefault();
+                getCharacter();
             }}>
                 <label htmlFor="name">
                     Name:
