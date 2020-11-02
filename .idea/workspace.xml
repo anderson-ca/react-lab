@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52878861-76c3-49c3-a7ba-1566f0451e26" name="Default Changelist" comment="restart project from npx create-react-app template.">
+    <list default="true" id="52878861-76c3-49c3-a7ba-1566f0451e26" name="Default Changelist" comment="add Home, About and Shop components and basic routing.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Counter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Shop.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,8 @@
       <workItem from="1604063940144" duration="10639000" />
       <workItem from="1604139404796" duration="4605000" />
       <workItem from="1604307724424" duration="22000" />
-      <workItem from="1604307757981" duration="9565000" />
+      <workItem from="1604307757981" duration="15180000" />
+      <workItem from="1604326326946" duration="5608000" />
     </task>
     <task id="LOCAL-00001" summary="add eslint rules">
       <created>1604067738255</created>
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604308559795</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add Home, About and Shop components and basic routing.">
+      <created>1604318941267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604318941267</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +148,8 @@
     <MESSAGE value="create counter component." />
     <MESSAGE value="creating rick and morty character picker." />
     <MESSAGE value="restart project from npx create-react-app template." />
-    <option name="LAST_COMMIT_MESSAGE" value="restart project from npx create-react-app template." />
+    <MESSAGE value="add Home, About and Shop components and basic routing." />
+    <option name="LAST_COMMIT_MESSAGE" value="add Home, About and Shop components and basic routing." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1375" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604066744725">
@@ -160,10 +168,10 @@
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
     <state x="1434" y="184" width="992" height="737" key="SettingsEditor/0.27.2560.1053@0.27.2560.1053" timestamp="1604067135946" />
-    <state x="1520" y="281" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1604308567409">
+    <state x="1520" y="281" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1604318950657">
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
-    <state x="1520" y="281" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.2560.1053@0.27.2560.1053" timestamp="1604308567409" />
+    <state x="1520" y="281" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.2560.1053@0.27.2560.1053" timestamp="1604318950657" />
     <state x="1732" y="463" width="385" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604069555474">
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
