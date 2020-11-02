@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52878861-76c3-49c3-a7ba-1566f0451e26" name="Default Changelist" comment="creating rick and morty character picker.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RickAndMortyCharacterPicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RickAndMortyCharacterPicker.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,8 @@
       <updated>1604063939118</updated>
       <workItem from="1604063940144" duration="10639000" />
       <workItem from="1604139404796" duration="4605000" />
+      <workItem from="1604307724424" duration="22000" />
+      <workItem from="1604307757981" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="add eslint rules">
       <created>1604067738255</created>
